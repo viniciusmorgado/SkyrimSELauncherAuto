@@ -1,4 +1,14 @@
 # SkyrimSELauncherAuto
-Compatibility patch for SkyrimSELauncher and SKSE mods for Skyrim Special Edition in C#
 
-Downlod the binarys and copy all the files to D:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition
+Compatibility patch for SkyrimSELauncher and SKSE mods for Skyrim Special Edition to Steam Start with C#
+
+Description: This patch allow the player start skyrim using skse launcher through steam shortcut insted use Vortex/Nexus or need to execute manually.
+
+1 - Download Skyrim Script Extender (SKSE): http://skse.silverlock.org/
+2 - Install SKSE normally.
+3 - Compile this project on Visual Studio or with "dotnet publish" command.
+3 - Copy this (compiled) files to Skyrim folder (same that have SkyrimSE.exe and SkyrimSE_Launcher.exe)
+
+Start the game using Steam and have fun!
+
+Obs: This patch also supress CMD prompt on game start and execute micro-optimizations of perfomance for more faster start the game.
