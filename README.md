@@ -11,6 +11,6 @@ Description: This patch allow the player start skyrim using skse launcher throug
 
 Start the game using Steam and have fun!
 
-Obs: This patch also supress CMD prompt on game start and execute micro-optimizations of perfomance for more faster start the game.
+Obs: This patch also supress CMD prompt on game start and execute micro-optimizations of perfomance for more faster game start.
 
 * Only compatible with Skyrim Special Edition.
